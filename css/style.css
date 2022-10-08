@@ -334,20 +334,19 @@ section{
     color: white;
 }
 #activites .box-active .box:nth-child(1){
-    background-image: url(/img/service1.jpeg);
-    background: cover;
+    background-image: url(../img/service1.jpeg);
 }
 #activites .box-active .box:nth-child(2){
-    background-image: url(/img/service2.jfif);
+    background-image: url(../img/service2.jfif);
     background-size: cover;
 }
 #activites .box-active .box:nth-child(3){
-    background-image: url(/img/service3.jpg);
+    background-image: url(../img/service3.jpg);
     background-size: cover;
 }
 
 #activites .box-active .box:nth-child(4){
-    background-image: url(/img/service4.jpeg);
+    background-image: url(../img/service4.jpeg);
     background-size: cover;
 }
 #sercice ul:nth-child(1){
